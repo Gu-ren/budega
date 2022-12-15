@@ -24,19 +24,19 @@ const Navbar = () => {
             >
               {/*<ul className='link f_flex uppercase {MobileMenu ? "nav-links-MobileMenu" : "nav-links"} onClick={() => setMobileMenu(false)}'>*/}
               <li>
-                <Link to="/budega">home</Link>
+                <Link to="#">home</Link>
               </li>
               <li>
-                <Link to="/bestSellers">Best Sellers</Link>
+                <Link to="#">Best Sellers</Link>
               </li>
               <li>
-                <Link to="/allNew">All new</Link>
+                <Link to="#">All new</Link>
               </li>
               <li>
-                <Link to="/deals&coupons">Deals & Coupons</Link>
+                <Link to="#">Deals & Coupons</Link>
               </li>
               <li>
-                <Link to="/featuredBrands">Featured Brands</Link>
+                <Link to="#">Featured Brands</Link>
               </li>
             </ul>
 
