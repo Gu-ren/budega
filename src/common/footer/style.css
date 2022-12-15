@@ -1,0 +1,44 @@
+footer {
+  background-color: #7DE5ED;
+  padding: 100px 0;
+  color: black;
+}
+
+footer .img {
+  background-color: #A685E2;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+}
+footer .img span {
+  margin-top: 5px;
+}
+footer p {
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 1;
+  margin-bottom: 20px;
+
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  opacity: 1;
+  
+}
+.footerlogo img{
+  width: 250px;
+
+}
+
+
+@media  (max-width: 768px) {
+.footerlogo{
+  padding-left: 50px;
+}
+}
