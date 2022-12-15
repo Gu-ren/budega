@@ -14,7 +14,7 @@ const Search = ({ CartItem }) => {
       <section className="search">
         <div className="container c_flex">
           <div className="logo width ">
-            <a href="/">
+            <a href="/budega">
               <img src={logo} alt="" />
             </a>
           </div>
