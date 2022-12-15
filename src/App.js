@@ -96,7 +96,7 @@ function App() {
               shopItems={shopItems}
             />
           </Route>
-          <Route path="/cart" exact>
+          <Route path="/budega/cart" exact>
             <Cart
               CartItem={CartItem}
               CartDIsplay={CartDisplay}
