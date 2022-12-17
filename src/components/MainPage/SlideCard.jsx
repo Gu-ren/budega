@@ -28,7 +28,7 @@ const SlideCard = () => {
                   <br />
                   <br />
                   <button type="submit" className="btn-primary">
-                    <a href="/"> Visit Collections</a>
+                    <a href="#"> Visit Collections</a>
                   </button>
                 </div>
                 <div className="right">
